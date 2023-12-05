@@ -22,7 +22,7 @@ You can visit the deployed website here:
 
 ## Logo
 
-![Logo](./garden_genie/src/images/Logo.png)
+<img src="./garden_genie/src/images/Logo.png" alt="drawing" width="200"/>
 
 
 
