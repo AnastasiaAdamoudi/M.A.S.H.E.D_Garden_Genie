@@ -79,6 +79,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 
+## Server
+
+To run the app locally along with its server, follow the instructions on the relevant repo to also start the server: [GardenGenieBackend](https://github.com/AnastasiaAdamoudi/GardenGenieBackend).
+
+
+
 
 
 ## Tech Stack
@@ -87,7 +93,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 **Collaboration:** Git, Trello
 
-**Development:** React.js, CSS, Bootstrap, Node.js, Express, MongoDB, Testing Library
+**Development:** React.js, CSS, Bootstrap, Testing Library
 
 
 
