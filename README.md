@@ -1,6 +1,6 @@
 # Garden Genie Frontend
 
-For the final full stack project at the School of Code, my team had the opportunity to address a real-world problem and plan, design and develop a full-stack web app within five weeks.
+For the final full stack project at School of Code, my team had the opportunity to address a real-world problem and plan, design and develop a full-stack web app within five weeks.
 
 ### The challenge:
 Simplify gardening for individuals, addressing the common barriers that often deter people from starting their gardening journey.
@@ -13,7 +13,7 @@ An app that delivers personalised plant recommendations based on user preference
 
 ## Website Link
 
-You can visit the deployed website here:
+You can visit the live website here:
 
 [Deployed Website Link](https://garden-genie.netlify.app/)
 
@@ -93,7 +93,7 @@ To run the app locally along with its server, follow the instructions on the rel
 
 **Collaboration:** Git, Trello
 
-**Development:** React.js, CSS, Bootstrap, Testing Library
+**Development:** React.js, React Router, CSS, Bootstrap, Testing Library
 
 
 
